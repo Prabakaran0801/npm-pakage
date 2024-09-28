@@ -1,0 +1,28 @@
+{
+  "name": "@prabakaran08/package-hello",
+  "version": "1.6.3",
+  "description": "Learning about npm package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prabakaran0801/npm-pakage.git"
+  },
+  "keywords": [
+    "new-package",
+    "prabakaran"
+  ],
+  "author": "prabakaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prabakaran0801/npm-pakage/issues"
+  },
+  "homepage": "https://github.com/Prabakaran0801/npm-pakage#readme",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
